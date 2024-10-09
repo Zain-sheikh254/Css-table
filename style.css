@@ -1,0 +1,32 @@
+.heading {
+    margin: auto;
+    width: 103%;
+    border-collapse: collapse;
+}
+
+th {
+    background: linear-gradient(rgb(82, 82, 255), rgb(19, 19, 100));
+    /* background-color: rgb(39, 87, 158); */
+    color: white;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+.id {
+    padding-left: 10px;
+}
+
+.check {
+    width: 5%;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
